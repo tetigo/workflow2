@@ -1,2 +1,2 @@
 master original
-linha 2 em branch master, feita para dar conflito
+linha 2 em branch master vai ficar
