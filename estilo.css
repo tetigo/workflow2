@@ -74,6 +74,7 @@ body{
     margin-top: 20px;
 }
 .form_contact input{
+    width: 700px;
     padding: 5px;
     font-size: 0.875em;
 }
